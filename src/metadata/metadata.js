@@ -3,23 +3,23 @@ module.exports = {
   title: 'Informatikstudent am KIT',
   facts: {
     "Ak. Grad": {
-      icon: "graduation-cap",
+      icon: "fa fa-graduation-cap",
       text: "Abitur",
     },
     "Geburtstag": {
-      icon: "asterisk",
+      icon: "fa fa-asterisk",
       text: "15.08.2002",
     },
     "Wohnort": {
-      icon: "home",
+      icon: "fa fa-home",
       text: "Karlsruhe",
     },
     "E-Mail": {
-      icon: "envelope",
+      icon: "fa fa-envelope",
       text: '<a href="mailto:fzuerker@gmail.com">fzuerker@gmail.com</a>',
     },
     "GitHub": {
-      icon: "github",
+      icon: "fab fa-github",
       text: '<a href="https://github.com/fzuerkeraguilar">fzuerkeraguilar</a>',
     }
   },

@@ -27,7 +27,7 @@
                         <time datetime="{{ buildinfo.date }}" class="small">Letztes Update: {{ updated }}</time>
                     </p>
                     <p>
-                        <span class="screen"><a href="{{ pdfFileName }}"><i class="far fa-file-pdf"></i>Download PDF version</a></span>
+                        <span class="screen"><a href="{{ pdfFileName }}"><i class="far fa-file-pdf"></i>PDF version</a></span>
                         <span class="print">Online Version: <a href="{{ baseUrl }}"
                                                                                         class="text-nowrap"><i
                             class="fab fa-github" aria-hidden="true"></i>{{ baseUrl }}</a></span>
@@ -41,7 +41,7 @@
                 <ul class="list-group list-group-flush">
                     {{#each facts}}
                     <li class="list-group-item d-flex justify-content-between align-items-start">
-                        <span class="text-nowrap"><i class="fa fa-{{ icon }}" aria-hidden="true"></i>&nbsp;{{ @key }}</span>
+                        <span class="text-nowrap"><i class="{{ icon }}" aria-hidden="true"></i>&nbsp;{{ @key }}</span>
                         <span class="text-nowrap">{{{ text }}}</span>
                     </li>
                     {{/each}}
