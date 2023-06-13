@@ -61,6 +61,7 @@ module.exports = {
       contents: `
 *	Fahrradfahren
 * Modellbau
+* Homelab
 * Mechanische Tastaturen
       `,
     },
