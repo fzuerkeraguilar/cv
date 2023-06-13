@@ -18,6 +18,10 @@ module.exports = {
       icon: "envelope",
       text: '<a href="mailto:fzuerker@gmail.com">fzuerker@gmail.com</a>',
     },
+    "GitHub": {
+      icon: "github",
+      text: '<a href="https://github.com/fzuerkeraguilar">fzuerkeraguilar</a>',
+    }
   },
   skills: [
     ['Java', 100],
@@ -53,10 +57,11 @@ module.exports = {
 `,
     },
     {
-      header: "Hobbies",
+      header: "Interessen",
       contents: `
 *	Fahrradfahren
 * Modellbau
+* 
       `,
     },
   ],
