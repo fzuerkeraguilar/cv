@@ -37,9 +37,9 @@ h1, h2, h3, h4 {
         display: none;
     }
 
-    .card {
+    /* .card {
         border: none;
-    }
+    } */
 
     .card-body {
         padding: 0;
@@ -109,8 +109,8 @@ h1, h2, h3, h4 {
         max-width: 50%;
     }
 
-    .border-print-0 {
-        border-width: 0 !important;
+    .border-print {
+        border-width: 1 !important;
     }
 
     .pb-print-0 {
