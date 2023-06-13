@@ -61,7 +61,6 @@ module.exports = {
       contents: `
 *	Fahrradfahren
 * Modellbau
-* 
       `,
     },
   ],
