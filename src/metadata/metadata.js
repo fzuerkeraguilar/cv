@@ -2,10 +2,10 @@ module.exports = {
   name: 'Fabian Zürker Aguilar',
   title: 'Informatikstudent am KIT',
   facts: {
-    "Ak. Grad": {
-      icon: "fa fa-graduation-cap",
-      text: "Abitur",
-    },
+    // "Ak. Grad": {
+    //   icon: "fa fa-graduation-cap",
+    //   text: "Abitur",
+    // },
     "Geburtstag": {
       icon: "fa fa-asterisk",
       text: "15.08.2002",
@@ -38,7 +38,7 @@ module.exports = {
       title: "Informatik B.Sc.",
       org: "Karlsruher Institut für Technologie",
       datespan: "Oktober 2020 - März 2024",
-      contents: ``,
+      contents: `Notenstand: 2,2`,
     },
     {
       title: "Abitur",
@@ -52,7 +52,7 @@ module.exports = {
       header: "Sprachkenntnisse",
       contents: `
 * Deutsch (Muttersprache)
-* Englisch (B2-C1) 
+* Englisch (C1) 
 * Spanisch (B1)
 `,
     },
@@ -61,6 +61,7 @@ module.exports = {
       contents: `
 *	Fahrradfahren
 * Modellbau
+* Mechanische Tastaturen
       `,
     },
   ],
