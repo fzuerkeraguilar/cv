@@ -62,7 +62,6 @@ module.exports = {
 *	Fahrradfahren
 * Modellbau
 * Homelab
-* Mechanische Tastaturen
       `,
     },
   ],
