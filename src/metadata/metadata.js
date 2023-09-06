@@ -32,6 +32,14 @@ module.exports = {
     ['CI/CD', 20]
   ],
   positions: [
+    {
+      title: "Werkstudent - Linux Administration",
+      org: "dmTECH GmbH",
+      datespan: "Seit Juli 2023",
+      contents: `
+      * Entwicklung von HA-Observability-Stack für Cluser mit Prometheus, Grafana und Thanos
+      * Entwicklung von CI/CD Pipelines`,
+    },
   ],
   education: [
     {
